@@ -1,0 +1,10 @@
+[
+  {
+    "package": "diffmatchpatch",
+    "oncran": true
+  },
+  {
+    "package": "parsermd",
+    "oncran": true
+  }
+]

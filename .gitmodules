@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "diffmatchpatch"]
+	path = diffmatchpatch
+	url = https://github.com/rundel/diffmatchpatch
+	shallow = true
+	registered = true
+[submodule "parsermd"]
+	path = parsermd
+	url = https://github.com/rundel/parsermd
+	shallow = true
+	registered = true
