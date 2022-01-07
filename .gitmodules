@@ -8,6 +8,11 @@
 	url = https://github.com/rundel/diffmatchpatch
 	shallow = true
 	registered = true
+[submodule "ghclass"]
+	path = ghclass
+	url = https://github.com/rundel/ghclass
+	shallow = true
+	registered = true
 [submodule "parsermd"]
 	path = parsermd
 	url = https://github.com/rundel/parsermd
