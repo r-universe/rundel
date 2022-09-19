@@ -1,5 +1,9 @@
 [
   {
+    "package": "diffmatchpatch",
+    "oncran": true
+  },
+  {
     "package": "ghclass",
     "oncran": true
   },
