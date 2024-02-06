@@ -8,6 +8,9 @@
 [submodule "ghclass"]
 	path = ghclass
 	url = https://github.com/rundel/ghclass
+[submodule "md4r"]
+	path = md4r
+	url = https://github.com/rundel/md4r
 [submodule "parsermd"]
 	path = parsermd
 	url = https://github.com/rundel/parsermd
